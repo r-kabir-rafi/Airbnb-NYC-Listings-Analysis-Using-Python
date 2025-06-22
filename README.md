@@ -79,8 +79,3 @@ Key fields used:
 - Stay competitive by monitoring price trends in your borough
 
 ---
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
-cd Python-Project-P2-New-York-AirBnb-Listing-2024
