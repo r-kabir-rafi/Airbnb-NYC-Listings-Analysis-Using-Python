@@ -1,5 +1,3 @@
-# Airbnb-NYC-Listings-Analysis-Using-Python
-
 #  NYC Airbnb Listings - Exploratory Data Analysis with Python 
 
 ## Project Summary
