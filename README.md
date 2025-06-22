@@ -4,7 +4,8 @@
 
 This project explores the Airbnb listings dataset for New York City to uncover patterns in prices, availability, room types, and host behavior. The goal is to provide data-driven insights for guests, hosts, and stakeholders in the short-term rental market.
 
-https://github.com/r-kabir-rafi/Airbnb-NYC-Listings-Analysis-Using-Python/issues/1#issue-3165655663
+![Image](https://github.com/user-attachments/assets/cdebc05b-2501-4c45-9dcc-7f50d5064ccf)
+
 ---
 
 ## Objectives
